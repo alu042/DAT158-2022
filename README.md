@@ -35,4 +35,4 @@ You can browse the notebooks interactively using our Binder:
 #### nbviewer
 You can browse the notebooks non-interactively using nbviewer: 
 
-<a href="https://nbviewer.org/github/alu042/DAT158-2022/tree/main/"><img height="30px" src="assets/nbviewer-logo-small.png"></a>
+<a href="https://nbviewer.org/github/alu042/DAT158-2022/tree/main/"><img height="30px" src="https://nbviewer.org/static/img/nav_logo.svg"></a>
