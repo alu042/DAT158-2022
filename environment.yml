@@ -12,6 +12,7 @@ dependencies:
   - pandas
   - scikit-learn
   - seaborn
+  - openpyxl
   - conda-forge::jupyter_contrib_nbextensions
   - conda-forge::jupyterlab
   - pip:
