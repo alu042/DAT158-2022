@@ -21,8 +21,8 @@ This is the code repository for the 2022 variant of DAT158 at HVL. Students foll
 I recommend working with the code material using Kaggle Notebooks or Google Colaboratory:
 
 
-[![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/code) &nbsp; [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT158ML-2022)
+[![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/code) &nbsp; [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT158-2022/blob/main/)
 
 You can also browse the notebooks interactively using Binder, or non-interactively using nbviewer:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alu042/DAT158-2022/HEAD) &nbsp; [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/alu042/DAT158-2022/tree/main/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alu042/DAT158-2022/HEAD) &nbsp; [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/alu042/DAT158-2022/tree/main/notebooks)
