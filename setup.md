@@ -29,7 +29,7 @@ git clone https://github.com/alu042/DAT158-2022
 cd DAT158-2022
 ```
 
-### Configure the Python environemnt
+### Configure the Python environment
 ```bash
 conda env update
 ```
