@@ -1,7 +1,7 @@
 
 # Course notebooks
 
-Here you will find all the Jupyter notebooks used in the course. Make sure to also check out the notebooks from the course textbook: :point_right: https://github.com/ageron/handson-ml2 
+Here you will find all the Jupyter notebooks used in the course. Make sure to also check out the notebooks from the course textbook: <br>:point_right: https://github.com/ageron/handson-ml2 
 
 
 <p>
