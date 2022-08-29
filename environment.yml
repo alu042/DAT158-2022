@@ -18,3 +18,5 @@ dependencies:
   - pip:
     - pip
     - kaggle
+    - visions
+    - pandas-profiling
