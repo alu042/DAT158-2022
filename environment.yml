@@ -20,3 +20,4 @@ dependencies:
     - kaggle
     - visions
     - pandas-profiling
+    - voila
