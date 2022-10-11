@@ -1,0 +1,29 @@
+name: dat158-gpu
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+  - fastchan
+dependencies:
+  - python
+  - pip
+  - ipython
+  - ipykernel
+  - ipywidgets
+  - jupyter
+  - git
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - seaborn
+  - openpyxl
+  - jupyter_contrib_nbextensions
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.6
+  - fastai
+  - pip:
+    - pip
+    - kaggle
