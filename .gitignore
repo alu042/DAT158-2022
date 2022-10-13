@@ -131,3 +131,5 @@ dmypy.json
 # Various
 .DS_Store
 openml
+extra-miniforelesninger
+*.pkz
