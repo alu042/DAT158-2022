@@ -1,0 +1,31 @@
+Index,Data fields,Type,Descriptions
+,LengthOfStay,,
+1.0,eid,Integer,Unique Id of the hospital admission
+2.0,vdate,String,Visit date
+3.0,rcount,Integer ,Number of readmissions within last 180 days
+4.0,gender,String,"Gender of the patient
+M or F"
+5.0,dialysisrenalendstage      ,String,Flag for renal disease during encounter
+6.0,asthma                 ,String,Flag for asthma during encounter
+7.0,irondef               ,String,Flag for iron deficiency during encounter
+8.0,pneum                    ,String,Flag for pneumonia during encounter
+9.0,substancedependence   ,String,Flag for substance dependence during encounter
+10.0,psychologicaldisordermajor ,String,Flag for major psychological disorder during encounter
+11.0,depress             ,String,Flag for depression during encounter
+12.0,psychother                ,String,Flag for other psychological disorder during encounter 
+13.0,fibrosisandother            ,String,Flag for fibrosis during encounter
+14.0,malnutrition          ,String,Flag for malnutrituion during encounter
+15.0,hemo      ,Float,Flag for blood disorder during encounter 
+16.0,hematocritic                ,Float,Average hematocritic value during encounter (g/dL)
+17.0,neutrophils             ,Float,Average neutrophils value during encounter  (cells/microL)
+18.0,sodium  ,Float,Average sodium value during encounter (mmol/L)
+19.0,glucose                  ,Float,Average sodium value during encounter (mmol/L)
+20.0,bloodureanitro    ,Float,Average blood urea nitrogen value during encounter (mg/dL)
+21.0,creatinine              ,Float,Average creatinine value during encounter (mg/dL)
+22.0,bmi         ,Float,Average BMI during encounter (kg/m2)
+23.0,pulse                                           ,Float,Average pulse during encounter  (beats/m)
+24.0,respiration  ,Float,Average respiration during encounter  (breaths/m) 
+25.0,secondarydiagnosisnonicd9      ,Integer,Flag for whether a non ICD 9 formatted diagnosis was coded as a secondary diagnosis    
+26.0,discharged                 ,String,Date of discharge
+27.0,facid                     ,Integer,Facility ID at which the encounter occurred
+28.0,lengthofstay        ,Integer,Length of stay for the encounter 
