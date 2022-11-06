@@ -133,3 +133,4 @@ dmypy.json
 openml
 extra-miniforelesninger
 *.pkz
+notebooks/dev
