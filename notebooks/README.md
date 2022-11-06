@@ -43,6 +43,7 @@ Here you will find all the Jupyter notebooks used in the course. Make sure to al
 | Notebook    |      1-Click Notebook      |    Video*   |
 |:----------|------|-------|
 |[DAT158-2.12-PyCaret.ipynb](https://nbviewer.org/github/alu042/DAT158-2022/tree/main/notebooks/DAT158-2.12-PyCaret.ipynb) <br>The above PyCaret notebook also serves as a first step into our discussion of ML engineering |[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Falu042%2FDAT158-2022%2Fblob%2Fmain%2Fnotebooks%2FDAT158-2.12-PyCaret.ipynb)<br>[![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/alexanderlundervold/dat158-2.12-pycaret-ipynb) <br>[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/DAT158-2022/blob/main/notebooks/DAT158-2.12-PyCaret.ipynb)| 
+|[Code: A quick Flask tutorial](../a_quick_flask_tutorial/) <br>A demonstration of using the Flask web framework to construct machine learning-powered applications | _This tutorial is not notebook-based_|<small>Part 1:</small><br>[![YouTube](assets/youtube_button.png)](https://www.youtube.com/watch?v=RJNJUUpz7Yc)<br><small>Part 2:</small> <br>[![YouTube](assets/youtube_button.png)](https://www.youtube.com/watch?v=n_5G7FRGlXY)
 |_More TBA_||
 
 
