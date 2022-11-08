@@ -1,8 +1,11 @@
 
 # Course notebooks
+<p><img width=40% src="https://camo.githubusercontent.com/9503e54cf4a17e4096f5d428569b641f29b2372ca2543a15a6893aba107412a4/68747470733a2f2f63646e2e6f7265696c6c797374617469632e636f6d2f656e2f6173736574732f312f6576656e742f3237312f6a75706e79323031375f706f77657265645f62795f6c6f676f2e706e67">
+</p>
 
+<p>
 Here you will find all the Jupyter notebooks used in the course. Make sure to also check out the notebooks from the course textbook: <br>:point_right: https://github.com/ageron/handson-ml2 
-
+</p>
 
 <p>
 
